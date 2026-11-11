@@ -28,5 +28,5 @@
 
 * ##### Advanced Joins \& Aggregations: Combined ball-by-ball and match metadata tables to calculate granular player and team metrics.
 * ##### Common Table Expressions (CTEs): Structured complex multi-stage calculations for multi-column player rankings and window comparisons.
-* ##### Window Functions: Applied `DENSE\_RANK()`, `ROW\_NUMBER()`, and moving averages to rank players within specific roles and track season-over-season performance consistency.
+* ##### Window Functions: Applied `DENSE\_RANK()`, `ROW\_NUMBER()`, and moving averages to rank players within specific roles and track season-over-season performance consistency
 
